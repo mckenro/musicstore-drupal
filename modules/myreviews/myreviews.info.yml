@@ -1,0 +1,7 @@
+name: 'My Ajax Node Loader'
+type: module
+description: 'Display Nodes with Ajax.'
+core: 8.x
+version: 1.x
+package: 'AAA Modules'
+configure: myreviews.admin
